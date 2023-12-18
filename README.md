@@ -1,7 +1,7 @@
 # MeshToPointClouds-Houdini
 A python shelf tool to convert mesh to point clouds using Houdini.
 
-// Add video here
+https://github.com/aniketrajnish/MeshToPointClouds-Houdini/assets/58925008/2ee677dc-05d4-4988-bc64-b5f4941af769
 
 ## Usage
 * Clone the repository
