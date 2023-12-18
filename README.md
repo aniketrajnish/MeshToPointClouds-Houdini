@@ -4,7 +4,7 @@ A python shelf tool to convert mesh to point clouds using Houdini.
 // Add video here
 
 ## Usage
-* Clone the repository <br><br>
+* Clone the repository
   ```
   git clone https://github.com/aniketrajnish/MeshToPointClouds-Houdini.git
   ```
@@ -12,7 +12,7 @@ A python shelf tool to convert mesh to point clouds using Houdini.
 * Create a new shelf tool in Houdini.
 * Paste the python script `src/MeshToPCs.py` to the shelf tool's script.
 * Create a new geometry in houdini/import a 3d mesh.
-*  Click on the python shelf to launch the tool and follow the following instructions: <br><br>
+*  Click on the python shelf to launch the tool and follow the following instructions:
    ```
    Select geometry container -> Select number of point clouds
    -> Try searching for texture automatically/manually -> Let it cook 🫦
